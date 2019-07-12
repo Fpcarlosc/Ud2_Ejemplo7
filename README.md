@@ -62,3 +62,6 @@ Los textos de los _TextView_ se han insertado en el fichero _values/strings.xml_
     <string name="cuatro">Cuatro</string>
 </resources>
 ```
+
+Notad como en el _TextView_ con el texto _Cuatro_ no se ha usado ninguno de estos atributos y por defecto se ha posicionado en la
+esquina superior izquierda.
